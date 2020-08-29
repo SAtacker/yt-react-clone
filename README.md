@@ -6,11 +6,11 @@
 
 ## Images
 
-![localhost](images\Screenshot (109).png)
+![localhost](https://github.com/SAtacker/yt-react-clone/blob/master/images/Screenshot%20(109).png)
 
-![ipad](images\localhost_3000_(iPad Pro).png)
+![ipad](https://github.com/SAtacker/yt-react-clone/blob/master/images/localhost_3000_(iPad%20Pro).png)
 
-![pixel2xl](images\localhost_3000_(iPad Pro).png)
+![pixel2xl](https://github.com/SAtacker/yt-react-clone/blob/master/images/localhost_3000_(Pixel%202%20XL).png)
 
 ## Install Dependencies
 
