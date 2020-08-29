@@ -1,0 +1,5 @@
+.video-item {
+    display: inline-block;
+    margin: 3px;
+    cursor: pointer;
+}
