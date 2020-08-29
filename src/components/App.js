@@ -4,7 +4,7 @@ import axios from '../apis/youtubeapi.js';
 import VideoList from './VideoList';
 import VideoDetail from './VideoDetail';
 
-const KEY = "AIzaSyA20WqWDXAr5H6jO80qPvIO2T71YHKNi30";
+const KEY = "Replace by your youtube public api-key";
 
 class App extends React.Component{
     state = {videos: [],selectedVideo:null,err:null};
