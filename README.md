@@ -6,9 +6,15 @@
 
 ## Images
 
+## On a 15.6 inch Full HD screen
+
 ![localhost](https://github.com/SAtacker/yt-react-clone/blob/master/images/Screenshot%20(109).png)
 
+## On 768 x 1024 ipad
+
 ![ipad](https://github.com/SAtacker/yt-react-clone/blob/master/images/localhost_3000_(iPad%20Pro).png)
+
+## On 411 x 823 pixel 2 xl
 
 ![pixel2xl](https://github.com/SAtacker/yt-react-clone/blob/master/images/localhost_3000_(Pixel%202%20XL).png)
 
