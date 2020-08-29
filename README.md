@@ -18,6 +18,11 @@
 
 ![pixel2xl](https://github.com/SAtacker/yt-react-clone/blob/master/images/localhost_3000_(Pixel%202%20XL).png)
 
+## Get Your YouTube Public API v3
+
+* From [here](https://console.developers.google.com/) grab YouTube Public API v3 key.
+* In src/components/App.js `const KEY = "Replace by your youtube public api-key";`
+
 ## Install Dependencies
 
 * Install axios(0.20.0) , react and react-dom (16.13.1) and react-scripts (3.4.3)
