@@ -6,6 +6,7 @@
 /.vs
 .pnp.js
 .vscode
+.gitignore
 
 # testing
 /coverage
